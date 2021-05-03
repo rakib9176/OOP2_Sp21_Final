@@ -1,0 +1,7 @@
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\StudentDepartmentCourse\StudentDepartmentCourse\bin\Debug\StudentDepartmentCourse.exe.config
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\StudentDepartmentCourse\StudentDepartmentCourse\bin\Debug\StudentDepartmentCourse.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\StudentDepartmentCourse\StudentDepartmentCourse\bin\Debug\StudentDepartmentCourse.pdb
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\StudentDepartmentCourse\StudentDepartmentCourse\obj\Debug\StudentDepartmentCourse.csprojAssemblyReference.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\StudentDepartmentCourse\StudentDepartmentCourse\obj\Debug\StudentDepartmentCourse.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\StudentDepartmentCourse\StudentDepartmentCourse\obj\Debug\StudentDepartmentCourse.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\StudentDepartmentCourse\StudentDepartmentCourse\obj\Debug\StudentDepartmentCourse.pdb

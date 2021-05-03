@@ -1,0 +1,7 @@
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\TransactionsofAccounts\TransactionsofAccounts\bin\Debug\TransactionsofAccounts.exe.config
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\TransactionsofAccounts\TransactionsofAccounts\bin\Debug\TransactionsofAccounts.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\TransactionsofAccounts\TransactionsofAccounts\bin\Debug\TransactionsofAccounts.pdb
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\TransactionsofAccounts\TransactionsofAccounts\obj\Debug\TransactionsofAccounts.csprojAssemblyReference.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\TransactionsofAccounts\TransactionsofAccounts\obj\Debug\TransactionsofAccounts.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\TransactionsofAccounts\TransactionsofAccounts\obj\Debug\TransactionsofAccounts.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\TransactionsofAccounts\TransactionsofAccounts\obj\Debug\TransactionsofAccounts.pdb

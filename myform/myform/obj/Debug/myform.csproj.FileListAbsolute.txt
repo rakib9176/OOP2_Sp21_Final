@@ -1,0 +1,10 @@
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\myform\myform\bin\Debug\myform.exe.config
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\myform\myform\bin\Debug\myform.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\myform\myform\bin\Debug\myform.pdb
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\myform\myform\obj\Debug\myform.csprojAssemblyReference.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\myform\myform\obj\Debug\myform.Form1.resources
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\myform\myform\obj\Debug\myform.Properties.Resources.resources
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\myform\myform\obj\Debug\myform.csproj.GenerateResource.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\myform\myform\obj\Debug\myform.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\myform\myform\obj\Debug\myform.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\Codes\GitHub (Final)\myform\myform\obj\Debug\myform.pdb
